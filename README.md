@@ -8,6 +8,6 @@ Here are strategies I have researched in Crypto markets using OHLCV data and twe
 **Status:** Code with comments + full witeup publishing by 5th February 
 
 ### 2) Crypto Twitter Sentiment analysis
-**Goal:** Evaluate whether tweets of liquid coins analysed using standard ML models add predictive power beyond price and volume.
+**Goal:** Evaluate whether tweets of liquid coins analysed using standard NLP add predictive power beyond price and volume.
 
 **Status:** Code with comments + full writeup publishing by 10th February
