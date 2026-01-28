@@ -3,7 +3,7 @@ Hi my name is Sameer Siddiqui! I am a rising senior at IUB and I am currently re
 Here are strategies I have researched in Crypto markets using OHLCV data and tweets:
 
 ### 1)Volume Weighted CSMOM strategy (Crypto)
-**Goal:** Build on top off the findings of Zih-Chun Huang's paper by using coins with higher trading volumes and a CSMOM signal instead off TSMOM to develop a more robust Sharpe after TCOSTS.
+**Goal:** Build on top off the findings of [Huang, Sangiorgi & Urquhart (2024)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4825389) by using coins with higher trading volumes and a CSMOM signal instead off TSMOM to develop a more robust Sharpe after TCOSTS.
 
 **Status:** Code with comments + full witeup publishing by 5th February 
 
