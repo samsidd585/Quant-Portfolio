@@ -17,7 +17,5 @@ I’m Sameer Siddiqui, a rising senior at Indiana University Bloomington, focuse
 
 **Status:** Code with comments + full writeup publishing by 10th February
 
----
-
 ## Tools 
 Python (pandas, numpy, statsmodel), Jupyter, Github
