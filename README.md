@@ -1,6 +1,5 @@
 # Quant-Portfolio
-Hi my name is Sameer Siddiqui! I am a rising senior at IUB and I am currently researching orderflow strategies in Crypto Markets as a Quant at Centroid Trading.
-Here are strategies I have researched in Crypto markets using OHLCV data and tweets:
+I’m Sameer Siddiqui, a rising senior at Indiana University Bloomington, focused on systematic trading research in crypto markets. Here are strategies I have researched using OHLCV and Twitter data:
 
 ### 1)Volume Weighted CSMOM strategy (Crypto)
 **Goal:** Build on top off the findings of [Huang, Sangiorgi & Urquhart (2024)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4825389) by using coins with higher trading volumes and a CSMOM signal instead off TSMOM to develop a more robust Sharpe after TCOSTS.
