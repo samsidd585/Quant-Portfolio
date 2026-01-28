@@ -8,7 +8,7 @@ I’m Sameer Siddiqui, a rising senior at Indiana University Bloomington, focuse
 
 **Universe:** Top 70 coins by marketcap with daily trading volume >1million on Binance Global excluding stablecoins. 
 
-**Status:** Code with comments + full witeup publishing by 5th February 
+**Status:** Code with comments + full writeup publishing by 5th February 
 
 ### 2) Crypto Twitter Sentiment analysis
 **Goal:** Evaluate whether tweets of liquid coins analysed using standard NLP add predictive power beyond price and volume.
