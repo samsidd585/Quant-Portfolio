@@ -25,6 +25,7 @@ Python (pandas, numpy, statsmodel), Jupyter, Github
 
 **Root Directory Breakdown:**
 
+```text
 EDS/
 ├── config/                     <-- Centralized Configuration
 │   ├── main.yml                <-- Global settings (API keys, run modes, paths)
