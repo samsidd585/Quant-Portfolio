@@ -6,7 +6,7 @@ I’m Sameer Siddiqui, a rising senior at Indiana University Bloomington, focuse
 ### 1)Volume Weighted CSMOM strategy (Crypto)
 **Goal:** Build on top off the findings of [Huang, Sangiorgi & Urquhart (2024)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4825389) by using coins with higher trading volumes and a CSMOM signal instead off TSMOM to develop a more robust Sharpe after TCOSTS.
 
-**Universe:** Top 70 coins by marketcap with daily trading volume >1million on Binance Global excluding stablecoins. 
+**Universe:** Top 100 coins by marketcap with daily trading volume >1million on Binance Global excluding stablecoins. 
 
 **Status:** Code with comments + full writeup publishing by 5th February 
 
