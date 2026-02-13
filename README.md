@@ -1,5 +1,5 @@
 # Quant-Portfolio
-I’m Sameer Siddiqui, a rising senior at Indiana University Bloomington, focused on algorithmic trading and market microstrcuture in crypto markets. Here are strategies I have researched using OHLCV and Twitter data:
+I’m Sameer Siddiqui, a rising senior at Indiana University Bloomington, focused on algorithmic trading and market microstrcuture in crypto markets. Here are strategies I have researched using OHLCV data:
 
 ## Projects (Publishing Soon) 
 
@@ -9,16 +9,6 @@ I’m Sameer Siddiqui, a rising senior at Indiana University Bloomington, focuse
 **Universe:** Top 100 coins by marketcap with daily trading volume >1million on Binance Global excluding stablecoins. 
 
 **Code+Overview can be found at this link:** [Volume-Weighted-CSMOM-Repo](https://github.com/samsidd585/Volume-Weighted-CSMOM-Repo) 
-
-### 2) Crypto Twitter Sentiment analysis
-**Goal:** Evaluate whether tweets of liquid coins analysed using standard NLP add predictive power beyond price and volume.
-
-**Universe:** BTC, ETH, XRP, and BNB
-
-**Status:** Code with comments + full writeup publishing by 14th February
-
-## Tools 
-Python (pandas, numpy, statsmodel), Jupyter, Github
 
 ## In progress
 **Event Driven Trading System:**
