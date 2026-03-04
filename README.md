@@ -1,5 +1,5 @@
 # Quant-Portfolio
-I’m Sameer Siddiqui, a rising junior at Indiana University Bloomington, triple majoring in Applied Math, Finance and Econometrics focused on algorithmic trading and market microstrcuture in crypto markets. Here are strategies I have researched using OHLCV data:
+I’m Sameer Siddiqui, a rising junior at Indiana University Bloomington, triple majoring in Applied Math, Finance and Econometrics focused on algorithmic trading and market microstructure in crypto markets. Here are strategies I have researched using OHLCV data:
 
 ## Projects 
 
