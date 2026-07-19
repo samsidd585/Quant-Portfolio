@@ -3,7 +3,7 @@ I'm Sameer Siddiqui, a rising senior at Indiana University Bloomington triple ma
 
 This summer I also interned as a sell-side quant at Ambit Capital, where I helped build automated tooling for the desk, such as dashboards and an ETL pipeline, to drive decision making and provide better analysis to buy-side clients.
 
-## Projects 
+## Quant Research Projects 
 
 ### 1)Volume Weighted CSMOM strategy (Crypto)
 **Goal:** Build on top of the findings of [Huang, Sangiorgi & Urquhart (2024)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4825389) by using coins with higher trading volumes and a CSMOM signal instead of TSMOM to develop a more robust Sharpe after TCOSTS.
