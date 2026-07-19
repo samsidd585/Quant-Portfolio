@@ -5,7 +5,7 @@ This summer I also interned as a sell-side quant at Ambit Capital, where I helpe
 
 ## Quant Research Projects 
 
-### 1)Volume Weighted CSMOM strategy (Crypto)
+### Volume Weighted CSMOM strategy (Crypto)
 **Goal:** Build on top of the findings of [Huang, Sangiorgi & Urquhart (2024)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4825389) by using coins with higher trading volumes and a CSMOM signal instead of TSMOM to develop a more robust Sharpe after TCOSTS.
 
 **Universe:** Top 100 coins by marketcap with daily trading volume >1million on Binance Global excluding stablecoins. 
